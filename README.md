@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou Tomás Braga  
 
-<!--
-**tomasbraga-c/tomasbraga-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em **Formação**  
+🚀 Atualmente trabalhando em projetos de **CRUDs, APIs e automações**  
+📚 Estudante de Engenharia de Software na FIAP, em constante aprendizado e desenvolvimento de novas tecnologias
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias & Ferramentas  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque  
+🔹 [Cadastro e Consulta em Python](https://github.com/tomasbraga-c/Cadastro-Consulta-Gerenciamento-em-Python)  
+🔹 [CRUD Web Dev (JS)](https://github.com/tomasbraga-c/CP1---WebDev---CRUD)  
+🔹 [Projeto Web com Tailwind](https://github.com/tomasbraga-c/Aula15-tailwind)
+
+---
+
+## 📊 GitHub Stats  
+![Tomás GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasbraga-c&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbraga-c&layout=compact&theme=radical)
+
+---
+
+📫 **Contato:**  
+[LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-braga-61b5072ab/) | [Email](tomasabcantuaria@gmail.com)
+
