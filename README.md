@@ -1,6 +1,6 @@
 # Olá, eu sou o Tomás Braga 👋
 
-Estudante de Engenharia de Software (3º semestre) apaixonado por **Back-end, IA e Dados**. Construindo projetos reais para aprender na prática — desde analisadores de hábitos com Pandas até assistentes de IA com a API do Claude.
+Estudante de Engenharia de Software (3º semestre) apaixonado por **Back-end, IA e Dados**. Construindo projetos reais para aprender na prática, desde analisadores de hábitos com Pandas até assistentes de IA com a APIs.
 
 Atualmente buscando minha primeira oportunidade como **estagiário em Back-end ou IA**.
 
