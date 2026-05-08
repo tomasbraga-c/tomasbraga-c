@@ -10,8 +10,8 @@ Atualmente buscando minha primeira oportunidade como **estagiário em Back-end o
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🤖 [PokeIA Assistant](#) | Assistente de montagem de time Pokémon com IA — sugestão por estilo, análise de fraquezas de tipo e recomendação de movimentos | Python · FastAPI · PokéAPI · Claude API · React |
-| 📊 [Health Analyzer](#) | Analisador de hábitos de saúde — lê dados de sono, água, exercício e humor e gera relatório visual completo | Python · Pandas · Matplotlib · Seaborn |
+| 🤖 PokeIA Assistant | Assistente de montagem de time Pokémon com IA — sugestão por estilo, análise de fraquezas de tipo e recomendação de movimentos | Python · FastAPI · PokéAPI · Claude API · React |
+| 📊 Health Analyzer | Analisador de hábitos de saúde — lê dados de sono, água, exercício e humor e gera relatório visual completo | Python · Pandas · Matplotlib · Seaborn |
 | 💱 Dashboard de Moedas | Painel com variação em tempo real e comparativo histórico entre moedas internacionais e Bitcoin | Python · Exchange API · React |
 | 📧 Automação de Relatório | Script que coleta variações do dia e envia resumo formatado por e-mail automaticamente via GitHub Actions | Python · GitHub Actions · SMTP |
 
@@ -19,7 +19,7 @@ Atualmente buscando minha primeira oportunidade como **estagiário em Back-end o
 
 ## 🛠️ Stack
 
-**Linguagens**
+**Linguagens Dominantes**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
